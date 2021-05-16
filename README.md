@@ -15,3 +15,7 @@ One can find which files they need to install by running the .py file and checki
 Type pip install "required file"
 
 Follow the report file for detailed instructions
+
+UPDATE:
+
+Added K-means clustering for a stock selection method
